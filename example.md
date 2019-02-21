@@ -2,4 +2,4 @@
 
 ## Little Title
 
-..* my item
+* my item
